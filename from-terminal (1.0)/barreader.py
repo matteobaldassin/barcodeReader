@@ -17,4 +17,4 @@ def carica():
         print("BARCODE TROVATO: "+ barcodes[0].data.decode("utf-8"))
     else: 
         print("BARCODE NON TROVATO")
-        #
+        #prova
